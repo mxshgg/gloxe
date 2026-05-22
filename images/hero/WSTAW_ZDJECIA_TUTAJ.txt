@@ -1,0 +1,14 @@
+HERO — ZDJĘCIE GŁÓWNE
+══════════════════════════════════════════
+
+Wstaw tutaj 1 zdjęcie auta.
+
+Nazwa pliku:   hero.jpg
+Rozmiar:       1920x1080 px (minimum)
+Format:        JPG, maks. 400 KB
+
+Jak podpiąć w index.html:
+  Otwórz index.html w Notepad++
+  Znajdź komentarz: <!-- HERO PHOTO
+  Zastąp linię z SVG na:
+  <img src="images/hero/hero.jpg" class="hero-car-svg" alt="detailing auto">

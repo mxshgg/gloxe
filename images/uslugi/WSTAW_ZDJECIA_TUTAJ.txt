@@ -1,0 +1,21 @@
+USŁUGI — ZDJĘCIA DO KART USŁUG
+══════════════════════════════════════════
+
+Wstaw tutaj 8 zdjęć (po jednym na każdą usługę).
+
+Nazwy plików:
+  usluga-01.jpg  →  Mycie sygnaturowe      (krople wody na lakierze)
+  usluga-02.jpg  →  Ochrona ceramiczna     (błyszczący lakier, makro)
+  usluga-03.jpg  →  Korekta lakieru        (polerka przy pracy)
+  usluga-04.jpg  →  Detailing wnętrza      (skóra / tapicerka)
+  usluga-05.jpg  →  Mobilny detailing      (auto z zewnątrz)
+  usluga-06.jpg  →  Renowacja reflektorów  (zbliżenie reflektora)
+  usluga-07.jpg  →  Detailing silnika      (komora silnika)
+  usluga-08.jpg  →  Przygotowanie do sprzedaży (auto całe)
+
+Rozmiar: 800x600 px, maks. 200 KB każde, format JPG
+
+Jak podpiąć w index.html:
+  Znajdź: style="/* ZDJĘCIE USŁUGI 01
+  Zmień na: style="background-image:url('images/uslugi/usluga-01.jpg');background-size:cover;background-position:center"
+  Powtórz dla 02, 03... 08

@@ -1,0 +1,19 @@
+O NAS + SPRZEDAŻ — ZDJĘCIA
+══════════════════════════════════════════
+
+Wstaw tutaj 2 zdjęcia:
+
+  about.jpg    →  Sekcja "O nas" — zbliżenie reflektora / lakieru
+  sprzedaz.jpg →  Sekcja "Przygotowanie do sprzedaży" — auto całe
+
+Rozmiar: 1200x900 px, maks. 300 KB, format JPG
+
+Jak podpiąć w index.html:
+
+  Sekcja O nas:
+    Znajdź: style="/* ZDJĘCIE O NAS
+    Zmień na: style="background-image:url('images/about/about.jpg');background-size:cover;background-position:center"
+
+  Sekcja Sprzedaż:
+    Znajdź: style="/* ZDJĘCIE SPRZEDAŻ
+    Zmień na: style="background-image:url('images/about/sprzedaz.jpg');background-size:cover;background-position:center"

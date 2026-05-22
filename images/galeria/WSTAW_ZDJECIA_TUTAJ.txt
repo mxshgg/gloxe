@@ -1,0 +1,18 @@
+GALERIA — ZDJĘCIA REALIZACJI
+══════════════════════════════════════════
+
+Wstaw tutaj 5 zdjęć realizacji (before/after lub efekty końcowe).
+
+Nazwy plików:
+  foto-1.jpg  →  Duże zdjęcie (span 2 kolumny) — najlepsza realizacja
+  foto-2.jpg  →  Paint correction zbliżenie
+  foto-3.jpg  →  Felgi / koła
+  foto-4.jpg  →  Wnętrze
+  foto-5.jpg  →  Reflektor / detal
+
+Rozmiar: 1200x800 px, maks. 300 KB każde, format JPG
+
+Jak podpiąć w index.html:
+  Znajdź: style="/* ZDJĘCIE GALERII 1
+  Zmień na: style="background-image:url('images/galeria/foto-1.jpg');background-size:cover;background-position:center"
+  Powtórz dla 2, 3, 4, 5
